@@ -1,0 +1,11 @@
+ocsp-lb.apple.com.akadns.net
+ocsp-a.g.aaplimg.com
+ocsp-us-lb.apple.com.akadns.net
+ocsp2-lb.apple.com.akadns.net
+ocsp2.g.aaplimg.com
+axm-app.apple.com
+comm-cohort.ess.apple.com
+comm-main.ess.apple.com
+ocsp2.apple.com
+ocsp.apple.com
+app-measurement.com
